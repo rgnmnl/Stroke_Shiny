@@ -1,2 +1,8 @@
 # Stroke_Shiny
-Stroke GWAS Shiny App
+
+---
+title: "Stroke GWAS Shiny App"
+author: Regina Manansala  
+date: July 2018
+output: md_document
+---
